@@ -1,0 +1,5 @@
+#Diving Deeper
+
+
+[differentSymbolsNaive]()
+[firstDigit]()

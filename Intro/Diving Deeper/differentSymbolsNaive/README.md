@@ -5,7 +5,7 @@
 For:
 
 ```
-s = "cabca", the output should be
+s = "cabca"
 ```
 
 the output should be:
