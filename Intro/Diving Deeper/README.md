@@ -1,5 +1,4 @@
 #Diving Deeper
 
-
-[differentSymbolsNaive]()
-[firstDigit]()
+* [differentSymbolsNaive]()
+* [firstDigit]()

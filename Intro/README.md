@@ -1,4 +1,4 @@
-#Intro
+# Intro
 
-[Diving Deeper]()
-[Island of Knowledge]()
+* [Diving Deeper]()
+* [Island of Knowledge]()

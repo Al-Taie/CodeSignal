@@ -1,6 +1,6 @@
-#Island of Knowledge
+# Island of Knowledge
 
 
-[areEquallyStrong]()
-[arrayMaximalAdjacentDifference]()
-[isIPv4Address]()
+* [areEquallyStrong]()
+* [arrayMaximalAdjacentDifference]()
+* [isIPv4Address]()
