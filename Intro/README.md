@@ -1,4 +1,6 @@
+<a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 # Intro
 
-* [Diving Deeper](https://github.com/Al-Taie/CodeSignal/tree/main/Intro/Diving%20Deeper)
-* [Island of Knowledge](https://github.com/Al-Taie/CodeSignal/tree/main/Intro/Island%20of%20Knowledge)
+* [Diving Deeper](Diving Deeper)
+* [Island of Knowledge](Island of Knowledge)
+* [The Journey Begins](The Journey Begins)
