@@ -1,3 +1,5 @@
+<a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
 **Consider integer numbers from 0 to n - 1 written down along the circle in such a way that the distance between any two
 neighboring numbers is equal (note that 0 and n - 1 are neighboring, too).**
 

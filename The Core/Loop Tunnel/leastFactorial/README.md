@@ -1,3 +1,5 @@
+<a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
 **Given an integer n, find the minimal k such that
 
 k = m! (where m! = 1 * 2 * ... * m) for some integer m; k >= n. In other words, find the smallest factorial which is not

@@ -1,3 +1,5 @@
+<a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
 **Call two arms equally strong if the heaviest weights they each are able to lift are equal.
 
 Call two people equally strong if their strongest arms are equally strong (the strongest arm can be both the right and

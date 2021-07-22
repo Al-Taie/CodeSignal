@@ -1,3 +1,5 @@
+<a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
 **Consider an arithmetic expression of the form `a#b=c`. Check whether it is possible to replace `#` with one of the four signs: `+, -, *` or `/` to obtain a correct expression.**
 ### Example
 

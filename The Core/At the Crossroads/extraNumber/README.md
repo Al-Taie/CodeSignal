@@ -1,3 +1,5 @@
+<a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
 **You're given three integers, `a, b` and `c`. It is guaranteed that two of these integers are equal to each other. What is the value of the third integer?**
 ### Example
 

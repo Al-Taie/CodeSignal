@@ -1,3 +1,5 @@
+<a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
 **Given a sequence of integers as an array, determine whether it is possible to obtain a strictly increasing sequence by
 removing no more than one element from the array.**
 
